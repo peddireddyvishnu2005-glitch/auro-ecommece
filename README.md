@@ -66,8 +66,8 @@ Follow these steps to run the storefront on your local machine:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Bunnyvalluri/Auro-e-commerce-website.git
-cd Auro-e-commerce-website
+git clone https://github.com/peddireddyvishnu2005-glitch/auro-ecommece.git
+cd auro-ecommece
 ```
 
 ### 2. Install dependencies
@@ -121,4 +121,4 @@ This will clear your existing index and batch-upload all 235 product records con
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Developed with 💜 by [Bunnyvalluri](https://github.com/Bunnyvalluri).
+Developed with 💜 by [Vishnu](https://github.com/peddireddyvishnu2005-glitch).
